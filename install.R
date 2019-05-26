@@ -1,0 +1,5 @@
+install.packages("httr")
+install.packages("ghql")
+install.packages("jsonlite")
+install.packages("IRdisplay")
+install.packages("dplyr")
